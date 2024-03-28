@@ -1,0 +1,33 @@
+{
+    "data":  [
+    {
+        "listings": {
+            "id": 1,
+            "title": "Honorable",
+            "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+            "location": "Suite 77",
+            "price_per_night": 2730.81,
+            "rating": 0.7,
+            "images": [
+                {
+                    "img1": "https://a0.muscache.com/im/pictures/miso/Hosting-1039027070197667122/original/a28acd68-12c1-472a-ab69-ad67d85aa13d.jpeg?im_w=720"
+                },
+                {
+                    "img2": "https://a0.muscache.com/im/pictures/miso/Hosting-1039027070197667122/original/134f1747-5f3b-49d5-8605-de1eb7ad61a4.jpeg?im_w=720"
+                },
+                {
+                    "img3": "https://a0.muscache.com/im/pictures/miso/Hosting-1039027070197667122/original/479cfeb1-76de-4d40-b509-a99249fd37bb.jpeg?im_w=720"
+                }
+            ],
+            "property_type": "Flat",
+            "rooms": 9,
+            "beds": 1,
+            "bathrooms": 7,
+            "amenities": "Heating",
+            "booking_options": "Long-term stays",
+            "host_language": "Greek",
+            "isPetAllowed": true
+        }
+    }
+]
+}
